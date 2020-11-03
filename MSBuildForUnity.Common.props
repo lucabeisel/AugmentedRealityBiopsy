@@ -2,15 +2,15 @@
   <PropertyGroup>
     <MSBuildForUnityVersion>0.8.3</MSBuildForUnityVersion>
     
-    <MSBuildForUnityGeneratedOutputDirectory>C:\Users\Luca\Documents\GitHub\AugmentedRealityBiopsy\MSBuild\Projects</MSBuildForUnityGeneratedOutputDirectory>
-    <UnityProjectAssetsPath>C:\Users\Luca\Documents\GitHub\AugmentedRealityBiopsy\Assets</UnityProjectAssetsPath>
+    <MSBuildForUnityGeneratedOutputDirectory>D:\AugmentedRealityBiopsy\MSBuild\Projects</MSBuildForUnityGeneratedOutputDirectory>
+    <UnityProjectAssetsPath>D:\AugmentedRealityBiopsy\Assets</UnityProjectAssetsPath>
     <MSBuildForUnityDefaultOutputPath>$(UnityProjectAssetsPath)\Dependencies</MSBuildForUnityDefaultOutputPath>
     
     <UnityCurrentPlatform>WindowsStandalone64</UnityCurrentPlatform>
     <UnityCurrentTargetFramework>net46</UnityCurrentTargetFramework>
     
     <UnityMajorVersion>2019</UnityMajorVersion>
-    <UnityMinorVersion>1</UnityMinorVersion>
+    <UnityMinorVersion>4</UnityMinorVersion>
   </PropertyGroup>
   
   <Target Name="_RemoveOutputDirectory" AfterTargets="Clean">
